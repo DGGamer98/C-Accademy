@@ -1,0 +1,52 @@
+C++ è un linguaggio multipiattaforma che può essere utilizzato per creare applicazioni ad alte prestazioni
+
+C++ --> è stato sviluppato da Bjarne Stroustrup, come estensione del linguaggio che
+
+C++ --> offre hai programmatori un elevatp livello di controllo sulle risorse di sistema e sulla memoria
+
+--------------------------------------------------------------------------------------------------
+
+######################
+## PERCHÉ USARE C++ ##
+######################
+
+C++ --> può essere trovato nei sistemi odierni, nelle interfaccie utente grafiche e nei sistemi embedded.
+
+C++ è un linguaggio di programmazione orientato agli oggetti che fornisce una struttura chiara ai programmatori e consente il riutilizzo del codice.
+
+C++ --> è portabile e può essere utilizzato per sviluppare applicazioni che possono essere multipiattaforma
+
+il C++ è divertente e facile da imparare
+
+poiche C++ è vicino a C, C# e Java rende facile i programmatori passare a C++ o viceversa
+
+------------------------------------------------------------------------------
+
+############################
+## DIFFERENZA TRA C++ E C ##
+############################
+
+Il C++ è una estensione del c ed entrambi i linguaggio hanno quasi la stessa sintassi
+
+La differenza è che C++ utilizza le classi e oggetti mentre il C no!
+
+-----------------------------------------------------------------------------
+
+###################
+## VARIABILI C++ ##
+###################
+
+Le variabili sono contenitori per la memorizzazione dei valori dei dati.
+
+In C++ esistono diversi tipi di variabili (definite con parole chiave diverse), ad esempio:
+
+
+int- memorizza numeri interi (numeri interi), senza decimali, come 123 o -123
+
+double- memorizza numeri in virgola mobile, con decimali, come 19,99 o -19,99
+
+char- memorizza singoli caratteri, come "a" o "B". I valori Char sono racchiusi tra virgolette singole
+
+string- memorizza il testo, come "Hello World". I valori stringa sono racchiusi tra virgolette doppie
+
+bool- memorizza valori con due stati: vero o falso
