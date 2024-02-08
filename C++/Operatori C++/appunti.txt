@@ -1,0 +1,21 @@
+###################
+## Operatore c++ ##
+###################
+
+Gli operatori vengono utilizzati per eseguire operazioni su varibili e valori.
+
+L'Operatore + viene utilizzato per sommare due valori, ma anche essere utilizzato per sommare una variabile e un valore oppure:
+
+una variabile e una variabile
+
+Il C++ divide gli operatori nei seguenti gruppi:
+
+Operatori aritmetici
+
+Operatori di assegnazione
+
+Operatori di confronto
+
+Operatori logici
+
+Operatori bit a bit

@@ -8,10 +8,20 @@ In questo esempio l'utente può inserire un numero, che viene memorizzato nella 
 
 #include <iostream>
 
-
-
-using namespace std
+using namespace std;
 
 int main() {
+
+    int x;
+    string y = "Ciao a tutti";
     
+    cout << "Inserisci un numero";
+    
+    cin >> x;
+    cin >> y;
+
+    cout << "Il tuo numero è" + x;
+    return 0;
+    
+
 }
