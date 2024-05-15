@@ -1,5 +1,5 @@
 /*
-Quando una persona non vuole che che altri modifichino il valore della variabile esistenti,
+Quando una persona non vuole che  altri modifichino il valore della variabile esistenti,
 
 Bisogna utilizzare il const --> dichiarerà la variabile come una costante che vuol dire immutabile o in sola lettura.
 

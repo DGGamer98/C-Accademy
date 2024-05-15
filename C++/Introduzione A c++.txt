@@ -2,7 +2,7 @@ C++ è un linguaggio multipiattaforma che può essere utilizzato per creare appl
 
 C++ --> è stato sviluppato da Bjarne Stroustrup, come estensione del linguaggio che
 
-C++ --> offre hai programmatori un elevatp livello di controllo sulle risorse di sistema e sulla memoria
+C++ --> offre hai programmatori un elevato livello di controllo sulle risorse di sistema e sulla memoria
 
 --------------------------------------------------------------------------------------------------
 
